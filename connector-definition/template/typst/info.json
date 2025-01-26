@@ -1,0 +1,20 @@
+{
+    "background":"background.jpg",
+    "folio" : "973bc8f6-e53f-4163-bd3e-2da23f8d4c94",
+    "fecha_y_hora_inicio" : "2023-02-25T13:13:46",
+    "fecha_y_hora_fin" : "2023-02-25T13:19:10",
+    "lugar" : "ESTACION XILITLA",
+    "registo" : "ES0699",
+    "rfc" : "RFCXILITLA",
+    "direccion" : "Direccion de Xilitla",
+    "colonia": " Moderna",
+    "cp":"782423",
+    "estado":"San Luis Potosi",
+    "actividad":"Bitácora de Operación",
+    "descripcion":"Operaciones en general",
+    "activo":"Terrazas",
+    "evidencias":["img1.png","img2.png"],
+    "firma":"firma.png",
+    "encargado" : "Ryan Delacroix",
+    "web":"http://www.staggeringbeauty.com/"
+}
